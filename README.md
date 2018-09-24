@@ -10,8 +10,10 @@ C:\ ...\repos\pdf-to-mp3>python text-to-mp3.py
 
 ## Notes
 
-You can edit the text file before you convert it to an mp3 file.
+* Uses Python 3
 
-There are additional commands you can add to the pdf-to-text command for customization.
+* You can edit the text file before you convert it to an mp3 file.
+
+* There are additional commands you can add to the pdf-to-text command for customization.
 
 Thanks to https://github.com/pndurette/gTTS and https://github.com/pdfminer/pdfminer.six for creating the underlying programs!
