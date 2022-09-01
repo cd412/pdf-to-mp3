@@ -22,7 +22,6 @@ def openFile():
 
 
 writeMp3(getTts(), outputFile)
-openFile()
 
 
 
